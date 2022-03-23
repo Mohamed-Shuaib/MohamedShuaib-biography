@@ -1,0 +1,546 @@
+/* .frame {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.name{
+    color:brown
+} */
+
+@media screen and (min-width: 0px){
+ body {
+    font-family: "Montserrat", sans-serif;
+    max-width: 70%; 
+    margin:auto;
+    background: rgb(245, 241, 241);
+    font-size: 19px;
+}
+.nstyle{
+    font-size: 18px;
+}
+.pict{
+    text-align: center;
+}
+
+.header {
+    /* display: flex;
+    align-items: center; */
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+.frame {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.title{
+    flex: 1;
+    margin-left: 20px;
+}
+
+.name{
+    color: darkgrey;
+    text-shadow: 4px 2px 4px rgb(19, 19, 19);
+    font-size: 40px;
+}
+
+.coral{
+  color: rgb(255, 104, 49);
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.qualification{
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.line{
+    border: 2px dashed coral;
+}
+/* Continuation from different sources */
+
+.section2{
+    background-color: rgb(238, 240, 239);
+    color: rgb(12, 11, 11);
+    padding: 2px;
+    line-height: 180%;
+    font-size: 14px;
+}
+
+.intro{
+    text-align: center;
+    font-size: 15px;
+    max-width: 100px;
+    color:coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.pic{
+    width: 200px;
+    height: 250px;
+}
+/* A link to facebook */
+
+.faceb{
+    text-decoration: none;
+    color:rgb(52, 146, 83);
+    text-decoration: underline;
+}
+a:hover{
+    color:rgb(153, 28, 28);
+}
+
+/* .foot{
+    display: inline;
+    max-width: auto;
+    align-items: bottom;
+    word-spacing: 3px;
+} */
+
+footer{
+    background: #d6d6d6;
+    padding: 12px;
+    text-align: center;
+    font-size: 15px;
+}
+
+footer p{
+    font-size: 20px;
+    letter-spacing: 4px;
+    color: #bebebe
+}
+
+footer ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+footer li{
+    display: inline-block
+}
+
+footer li a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 12px;
+    color: coral;
+    
+}
+footer li a:hover{
+    color:blue;
+}
+
+}
+
+
+
+@media screen and (min-width: 680px){
+ body {
+    font-family: "Montserrat", sans-serif;
+    max-width: 50%; 
+    margin:auto;
+    background: rgb(245, 241, 241);
+    font-size: 19px;
+}
+.nstyle{
+    font-size: 18px;
+}
+.pict{
+    text-align: center;
+}
+
+.header {
+    /* display: flex;
+    align-items: center; */
+    color: rgb(32, 30, 30);
+    background-color: rgb(255, 255, 255);
+}
+
+.frame {
+    width: 170px;
+    height: 170px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.title{
+    flex: 1;
+    margin-left: 20px;
+}
+
+.name{
+    color: darkgrey;
+    text-shadow: 4px 2px 4px rgb(19, 19, 19);
+    font-size: 40px;
+}
+
+.coral{
+  color: rgb(255, 104, 49);
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.qualification{
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.line{
+    border: 2px dashed coral;
+}
+/* Continuation from different sources */
+
+.section2{
+    background-color: rgb(238, 240, 239);
+    color: rgb(12, 11, 11);
+    padding: 2px;
+    line-height: 180%;
+    font-size: 14px;
+}
+
+.intro{
+    text-align: center;
+    font-size: 20px;
+    max-width: 400px;
+    color:coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.pic{
+    width: 200px;
+    height: 250px;
+}
+/* A link to facebook */
+
+.faceb{
+    text-decoration: none;
+    color:rgb(255, 104, 49);
+}
+a:hover{
+    color:blue;
+}
+
+/* .foot{
+    display: inline;
+    max-width: auto;
+    align-items: bottom;
+    word-spacing: 3px;
+} */
+
+footer{
+    background: #d6d6d6;
+    padding: 12px;
+    text-align: center;
+    font-size: 15px;
+}
+
+footer p{
+    font-size: 20px;
+    letter-spacing: 4px;
+    color: #bebebe
+}
+
+footer ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+footer li{
+    display: inline-block
+}
+
+footer li a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 12px;
+    color: coral;
+    
+}
+footer li a:hover{
+    color:blue;
+}
+
+}
+
+
+@media screen and (min-width: 1007px){
+    
+     body {
+    font-family: "Montserrat", sans-serif;
+    max-width: 50%; 
+    margin:auto;
+    background: rgb(245, 241, 241);
+    font-size: 19px;
+}
+.nstyle{
+    font-size: 18px;
+}
+.pict{
+    text-align: center;
+}
+
+.header {
+    /* display: flex;
+    align-items: center; */
+    color: rgb(32, 30, 30);
+    background-color: rgb(255, 255, 255);
+}
+
+.frame {
+    width: 170px;
+    height: 170px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.title{
+    flex: 1;
+    margin-left: 20px;
+}
+
+.name{
+    color: darkgrey;
+    text-shadow: 4px 2px 4px rgb(19, 19, 19);
+    font-size: 40px;
+}
+
+.coral{
+  color: rgb(255, 104, 49);
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.qualification{
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.line{
+    border: 2px dashed coral;
+}
+/* Continuation from different sources */
+
+.section2{
+    background-color: rgb(238, 240, 239);
+    color: rgb(12, 11, 11);
+    padding: 2px;
+    line-height: 180%;
+    font-size: 17px;
+}
+
+.intro{
+    text-align: center;
+    font-size: 25px;
+    max-width: 400px;
+    color:coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.pic{
+    width: 200px;
+    height: 250px;
+}
+/* A link to facebook */
+
+.faceb{
+    text-decoration: none;
+    color:rgb(255, 104, 49);
+}
+a:hover{
+    color:blue;
+}
+
+/* .foot{
+    display: inline;
+    max-width: auto;
+    align-items: bottom;
+    word-spacing: 3px;
+} */
+
+footer{
+    background: #d6d6d6;
+    padding: 12px;
+    text-align: center;
+    font-size: 15px;
+}
+
+footer p{
+    font-size: 20px;
+    letter-spacing: 4px;
+    color: #bebebe
+}
+
+footer ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+footer li{
+    display: inline-block
+}
+
+footer li a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 12px;
+    color: coral;
+    
+}
+footer li a:hover{
+    color:blue;
+}
+}
+
+@media screen and (min-width: 1350px) {
+  body {
+    font-family: "Montserrat", sans-serif;
+    max-width: 50%; 
+    margin:auto;
+    background: rgb(245, 241, 241);
+    font-size: 19px;
+}
+
+.nstyle{
+    font-size: 11px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    color: rgb(32, 30, 30);
+    background-color: rgb(255, 255, 255);
+}
+
+.frame {
+    width: 170px;
+    height: 170px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.title{
+    flex: 1;
+    margin-left: 20px;
+}
+
+.name{
+    /* color: darkgrey; */
+    text-shadow: 4px 2px 4px rgb(19, 19, 19);
+    font-size: 40px;
+    color: rgb(255, 104, 49);
+}
+
+.coral{
+    color: rgb(255, 104, 49);
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.qualification{
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.line{
+    border: 2px dashed coral;
+}
+/* Continuation from different sources */
+
+.section2{
+    background-color: rgb(238, 240, 239);
+    color: rgb(12, 11, 11);
+    padding: 2px;
+    line-height: 180%;
+    font-size: 18px;
+}
+
+.intro{
+    text-align: center;
+    font-size: 30px;
+    max-width: 400px;
+    color:coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.pic{
+    width: 200px;
+    height: 250px;
+}
+/* A link to facebook */
+
+.faceb{
+    text-decoration: none;
+    color:rgb(255, 104, 49);
+}
+a:hover{
+    color:blue;
+}
+
+/* .foot{
+    display: inline;
+    max-width: auto;
+    align-items: bottom;
+    word-spacing: 3px;
+} */
+
+footer{
+    background: #d6d6d6;
+    padding: 12px;
+    text-align: center;
+    font-size: 15px;
+}
+
+footer p{
+    font-size: 20px;
+    letter-spacing: 4px;
+    color: #bebebe
+}
+
+footer ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+footer li{
+    display: inline-block
+}
+
+footer li a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 12px;
+    color: coral;
+    
+}
+footer li a:hover{
+    color:blue;
+}
+}
